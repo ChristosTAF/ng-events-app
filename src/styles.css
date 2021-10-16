@@ -22,10 +22,6 @@
     margin: 0;
   }
 
-  body {
-    color: black;
-  }
-
   .spacer {
     flex: 1;
   }
